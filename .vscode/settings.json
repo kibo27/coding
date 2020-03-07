@@ -70,7 +70,11 @@
         "random": "cpp",
         "regex": "cpp",
         "set": "cpp",
-        "string.h": "c"
+        "string.h": "c",
+        "any": "cpp",
+        "bit": "cpp",
+        "charconv": "cpp",
+        "variant": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
